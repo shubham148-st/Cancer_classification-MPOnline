@@ -1,0 +1,12 @@
+(cnnsat) PS C:\projects\assignments\cancer> & C:/Users/purbe/.conda/envs/cnnsat/python.exe c:/projects/assignments/cancer/main.py     
+epoch 1 - train acc: 0.61, test acc: 0.38
+epoch 2 - train acc: 0.76, test acc: 0.58
+epoch 3 - train acc: 0.82, test acc: 0.65
+epoch 4 - train acc: 0.85, test acc: 0.61
+epoch 5 - train acc: 0.87, test acc: 0.66
+epoch 6 - train acc: 0.90, test acc: 0.67
+epoch 7 - train acc: 0.92, test acc: 0.67
+epoch 8 - train acc: 0.93, test acc: 0.60
+epoch 9 - train acc: 0.94, test acc: 0.72
+epoch 10 - train acc: 0.95, test acc: 0.71
+saved
